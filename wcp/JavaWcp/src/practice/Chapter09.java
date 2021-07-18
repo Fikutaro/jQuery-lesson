@@ -9,7 +9,7 @@ public class Chapter09 {
 
 		Car car = new Car(fuelCost, fuelAmount);
 
-		car.move(60);
+		car.move(40);
 		System.out.println("残量は、" + car.getFuelAmount() + "です");
 	}
 }
