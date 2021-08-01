@@ -31,6 +31,7 @@ public class Array {
 				System.out.print(" " + array[i]);
 			}
 
+			
 		}
 	}
 }
